@@ -1,6 +1,6 @@
 # Auditorium Booking System
 
-![DashBoard Screenshot]\(Dashboard.png)
+![DashBoard Screenshot](Dashboard.png)
 
 ## Overview
 
